@@ -80,6 +80,7 @@ for the moment, we've just added a new path to the first path. The new path here
 
             ros2 launch bumperbot_description gazebo.launch.py world_name:=small_house
 25. We can change the world by changing the name of the world in the world_name:= parameter. If we didnt add the world name, then by default it will open the empty.world
+26. If you confused about code configuration of the file, you can download the CMakeList.txt and gazebo.launch.py in this repo.
     
                     
             
